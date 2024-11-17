@@ -1,0 +1,55 @@
+
+.body_thanks_container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+    /* width: 100%; */
+  }
+  
+  .valid_img {
+    width: 80px;
+    margin: 25px;
+  }
+  
+  .thanks_title {
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+  }
+  
+  .cmd_details {
+    text-align: center;
+    margin: 15px;
+    font-size: 18px;
+  }
+  
+  .bold_green {
+    color: green;
+    font-weight: bolder;
+  }
+  
+  .redirect_home_ > a {
+    color: white;
+    background-color: #5356ee;
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .redirect_home_ > a > div {
+    margin: 5px;
+  }
+  
+  .redirect__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+  }
+  
