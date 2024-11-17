@@ -5,7 +5,7 @@ This project is a clone of the Tecovas website. It includes features like [list 
 ## Technologies Used
 
 - HTML, CSS, JavaScript
-- [Any frameworks or libraries, e.g., React, Node.js, etc.]
+- PHP
 
 ## Installation
 
